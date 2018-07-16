@@ -1,6 +1,7 @@
 opam-version: "1.2"
 maintainer: "Marek Kubica <marek@xivilization.net>"
 author: "Marek Kubica <marek@xivilization.net"
+license: "AGPL-3.0"
 homepage: "https://github.com/Leonidas-from-XIV/issuubox"
 dev-repo: "git@github.com:Leonidas-from-XIV/issuubox.git"
 bug-reports: "https://github.com/Leonidas-from-XIV/issuubox/issues"
