@@ -1,0 +1,4 @@
+(executable
+  (name issuubox)
+  (public_name issuubox)
+  (libraries base))
